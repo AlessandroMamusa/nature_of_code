@@ -21,6 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="nature_of_code"
+run/main_scene="res://random_walker.tscn"
 config/icon="res://icon.png"
 
 [gdnative]
